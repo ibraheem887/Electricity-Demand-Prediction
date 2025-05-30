@@ -10,4 +10,4 @@ The Electricity Demand Prediction project analyzes and forecasts electricity con
 - **Outlier Detection**: Identifies and manages outliers using IQR and Z-score methods.
 - **Regression Modeling**: Builds and evaluates a regression model to predict electricity demand, assessing performance with key metrics.
 
-
+link for raw data https://drive.google.com/file/d/1W1lzmWsHj6vkJ96RddDekvHwKIGMIJPO/view?authuser=0&usp=classroom_web
